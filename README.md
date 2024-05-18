@@ -69,7 +69,7 @@ He_{n}(x)=(-1)^{n} e^{\frac{x^2}{2}} \frac{\mathrm d^{n}}{\mathrm d x^{n}} e^{-\
 To use in Observable,
 
 ```javascript
-normhermitepolyf = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@umd/browser.js' )
+normhermitepolyf = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@v0.0.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -81,7 +81,7 @@ var normhermitepolyf = require( 'path/to/vendor/umd/math-base-tools-normhermitep
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@v0.0.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -154,7 +154,7 @@ var v = polyval( 0.5 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/strided-base-smap@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@v0.0.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
