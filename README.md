@@ -67,13 +67,18 @@ He_{n}(x)=(-1)^{n} e^{\frac{x^2}{2}} \frac{\mathrm d^{n}}{\mathrm d x^{n}} e^{-\
 ## Usage
 
 ```javascript
+import normhermitepolyf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-tools-normhermitepolyf/tags). For example,
+
+```javascript
 import normhermitepolyf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@v0.0.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@v0.0.2-deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@deno/mod.js';
 ```
 
 #### normhermitepolyf( n, x )
@@ -133,7 +138,7 @@ import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros@deno/mod.js';
 import smap from 'https://cdn.jsdelivr.net/gh/stdlib-js/strided-base-smap@deno/mod.js';
 import logEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each@deno/mod.js';
-import normhermitepolyf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@v0.0.2-deno/mod.js';
+import normhermitepolyf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-normhermitepolyf@deno/mod.js';
 
 // Generate random values at which to evaluate a polynomial:
 var x = uniform( 10, -50.0, 50.0, {
