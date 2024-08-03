@@ -42,7 +42,8 @@
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
     "@stdlib/types": "^0.3.2",
     "@stdlib/utils-constant-function": "^0.2.2",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.2",
