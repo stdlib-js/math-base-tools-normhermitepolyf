@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-20)
+## Unreleased (2025-11-26)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 4 issues were closed in this release:
+A total of 5 issues were closed in this release:
 
-[#6737](https://github.com/stdlib-js/stdlib/issues/6737), [#7542](https://github.com/stdlib-js/stdlib/issues/7542), [#7781](https://github.com/stdlib-js/stdlib/issues/7781), [#8099](https://github.com/stdlib-js/stdlib/issues/8099)
+[#6737](https://github.com/stdlib-js/stdlib/issues/6737), [#7542](https://github.com/stdlib-js/stdlib/issues/7542), [#7781](https://github.com/stdlib-js/stdlib/issues/7781), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8566](https://github.com/stdlib-js/stdlib/issues/8566)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 4 issues were closed in this release:
 
 <details>
 
+-   [`50453ac`](https://github.com/stdlib-js/stdlib/commit/50453ac1c17c648d7ddcc247b8e142d73a64dece) - **chore:** fix EditorConfig lint errors [(#8570)](https://github.com/stdlib-js/stdlib/pull/8570) _(by Aman Singh)_
 -   [`39c8178`](https://github.com/stdlib-js/stdlib/commit/39c81784cc23324dc9ec312ccc1ed466db849feb) - **chore:** fix EditorConfig lint errors [(#8107)](https://github.com/stdlib-js/stdlib/pull/8107) _(by Payal Goswami)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`f764585`](https://github.com/stdlib-js/stdlib/commit/f764585ba248d15ad117131f623afb95f9cb3ea7) - **chore:** fix EditorConfig lint errors [(#7790)](https://github.com/stdlib-js/stdlib/pull/7790) _(by Lalit Narayan Yadav)_
@@ -40,8 +41,9 @@ A total of 4 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Aman Singh
 -   Lalit Narayan Yadav
 -   Nishant singh
 -   Payal Goswami
