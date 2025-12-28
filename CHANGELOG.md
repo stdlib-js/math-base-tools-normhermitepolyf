@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-26)
+## Unreleased (2025-12-28)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 5 issues were closed in this release:
+A total of 6 issues were closed in this release:
 
-[#6737](https://github.com/stdlib-js/stdlib/issues/6737), [#7542](https://github.com/stdlib-js/stdlib/issues/7542), [#7781](https://github.com/stdlib-js/stdlib/issues/7781), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8566](https://github.com/stdlib-js/stdlib/issues/8566)
+[#6737](https://github.com/stdlib-js/stdlib/issues/6737), [#7542](https://github.com/stdlib-js/stdlib/issues/7542), [#7781](https://github.com/stdlib-js/stdlib/issues/7781), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8566](https://github.com/stdlib-js/stdlib/issues/8566), [#9402](https://github.com/stdlib-js/stdlib/issues/9402)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 5 issues were closed in this release:
 
 <details>
 
+-   [`62d2f47`](https://github.com/stdlib-js/stdlib/commit/62d2f478545ec223c81f6d22b3456ac88329b298) - **chore:** fix EditorConfig lint errors [(#9409)](https://github.com/stdlib-js/stdlib/pull/9409) _(by DivitJain26)_
 -   [`50453ac`](https://github.com/stdlib-js/stdlib/commit/50453ac1c17c648d7ddcc247b8e142d73a64dece) - **chore:** fix EditorConfig lint errors [(#8570)](https://github.com/stdlib-js/stdlib/pull/8570) _(by Aman Singh)_
 -   [`39c8178`](https://github.com/stdlib-js/stdlib/commit/39c81784cc23324dc9ec312ccc1ed466db849feb) - **chore:** fix EditorConfig lint errors [(#8107)](https://github.com/stdlib-js/stdlib/pull/8107) _(by Payal Goswami)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -41,9 +42,10 @@ A total of 5 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Singh
+-   DivitJain26
 -   Lalit Narayan Yadav
 -   Nishant singh
 -   Payal Goswami
