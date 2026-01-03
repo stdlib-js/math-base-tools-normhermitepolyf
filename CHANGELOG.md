@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-29)
+## Unreleased (2026-01-03)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 6 issues were closed in this release:
+A total of 7 issues were closed in this release:
 
-[#6737](https://github.com/stdlib-js/stdlib/issues/6737), [#7542](https://github.com/stdlib-js/stdlib/issues/7542), [#7781](https://github.com/stdlib-js/stdlib/issues/7781), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8566](https://github.com/stdlib-js/stdlib/issues/8566), [#9402](https://github.com/stdlib-js/stdlib/issues/9402)
+[#6737](https://github.com/stdlib-js/stdlib/issues/6737), [#7542](https://github.com/stdlib-js/stdlib/issues/7542), [#7781](https://github.com/stdlib-js/stdlib/issues/7781), [#8099](https://github.com/stdlib-js/stdlib/issues/8099), [#8566](https://github.com/stdlib-js/stdlib/issues/8566), [#9402](https://github.com/stdlib-js/stdlib/issues/9402), [#9506](https://github.com/stdlib-js/stdlib/issues/9506)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 6 issues were closed in this release:
 
 <details>
 
+-   [`27d5d30`](https://github.com/stdlib-js/stdlib/commit/27d5d30af2380909aa925ce955fb7a4b79d5df43) - **style:** fix EditorConfig lint errors [(#9510)](https://github.com/stdlib-js/stdlib/pull/9510) _(by kaushal-kumar-it)_
 -   [`62d2f47`](https://github.com/stdlib-js/stdlib/commit/62d2f478545ec223c81f6d22b3456ac88329b298) - **chore:** fix EditorConfig lint errors [(#9409)](https://github.com/stdlib-js/stdlib/pull/9409) _(by DivitJain26)_
 -   [`50453ac`](https://github.com/stdlib-js/stdlib/commit/50453ac1c17c648d7ddcc247b8e142d73a64dece) - **chore:** fix EditorConfig lint errors [(#8570)](https://github.com/stdlib-js/stdlib/pull/8570) _(by Aman Singh)_
 -   [`39c8178`](https://github.com/stdlib-js/stdlib/commit/39c81784cc23324dc9ec312ccc1ed466db849feb) - **chore:** fix EditorConfig lint errors [(#8107)](https://github.com/stdlib-js/stdlib/pull/8107) _(by Payal Goswami)_
@@ -42,7 +43,7 @@ A total of 6 issues were closed in this release:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Singh
 -   DivitJain26
@@ -50,6 +51,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 -   Nishant singh
 -   Payal Goswami
 -   Philipp Burckhardt
+-   kaushal-kumar-it
 
 </section>
 
