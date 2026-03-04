@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-14)
+## Unreleased (2026-03-04)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#10246](https://github.com/stdlib-js/stdlib/issues/10246)
+[#10246](https://github.com/stdlib-js/stdlib/issues/10246), [#10692](https://github.com/stdlib-js/stdlib/issues/10692)
 
 </section>
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a24740a`](https://github.com/stdlib-js/stdlib/commit/a24740a8441afceaef4ec4f0956fdb32b66c2f36) - **chore:** fix EditorConfig lint errors [(#10695)](https://github.com/stdlib-js/stdlib/pull/10695) _(by Partha Das)_
 -   [`71f75c9`](https://github.com/stdlib-js/stdlib/commit/71f75c9b9b996b6b0e6a1e4a75229a726c3a1ea3) - **chore:** fix JavaScript lint errors [(#10247)](https://github.com/stdlib-js/stdlib/pull/10247) _(by Bhargav Dabhade)_
 
 </details>
@@ -36,9 +37,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Bhargav Dabhade
+-   Partha Das
 
 </section>
 
