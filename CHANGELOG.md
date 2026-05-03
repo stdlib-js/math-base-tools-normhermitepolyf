@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-26)
+## Unreleased (2026-05-03)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ A total of 4 issues were closed in this release:
 
 <details>
 
+-   [`c2b92b4`](https://github.com/stdlib-js/stdlib/commit/c2b92b4e7c4840bb859808dc0dacd97833019549) - **chore:** propagate fixes to sibling packages [(#11892)](https://github.com/stdlib-js/stdlib/pull/11892) _(by Philipp Burckhardt)_
 -   [`39c4de7`](https://github.com/stdlib-js/stdlib/commit/39c4de75a25292c00909cda17a7cb055113e608e) - **bench:** refactor to use string interpolation in `math/base/special` [(#11390)](https://github.com/stdlib-js/stdlib/pull/11390) _(by Karan Anand)_
 -   [`6cb6e42`](https://github.com/stdlib-js/stdlib/commit/6cb6e42b51ae93e10ad1da805bc6b8922f46697a) - **chore:** fix EditorConfig lint errors [(#11256)](https://github.com/stdlib-js/stdlib/pull/11256) _(by Mandeep2333)_
 -   [`fda6d89`](https://github.com/stdlib-js/stdlib/commit/fda6d8918aaab28bd1b422d32314970d0fb8215b) - **chore:** fix EditorConfig lint errors [(#11046)](https://github.com/stdlib-js/stdlib/pull/11046) _(by Baixiaochun)_
@@ -40,13 +41,14 @@ A total of 4 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Baixiaochun
 -   Bhargav Dabhade
 -   Karan Anand
 -   Mandeep2333
 -   Partha Das
+-   Philipp Burckhardt
 
 </section>
 
